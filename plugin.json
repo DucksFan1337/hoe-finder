@@ -1,0 +1,9 @@
+{
+  "name": "Hoe Finder",
+  "description": "Finds Cream Hat Gang members via OCR and shows compass direction.",
+  "version": "2.1.0",
+  "launchmode": "embed",
+  "icon": "icon.png",
+  "main": "index.html",
+  "permissions": ["capture", "overlay", "openurl"]
+}
