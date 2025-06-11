@@ -1,0 +1,8 @@
+{
+  "name": "Hoe Finder",
+  "description": "Finds Cream Hat Gang members via OCR and minimap.",
+  "icon": "icon.png",
+  "url": "https://ducksfan1337.github.io/hoe-finder/index.html",
+  "plugin": "https://ducksfan1337.github.io/hoe-finder/plugin.json",
+  "permissions": ["capture", "overlay"]
+}
