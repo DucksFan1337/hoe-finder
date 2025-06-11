@@ -15,8 +15,8 @@ function updateStatus(text) {
 }
 
 function startHunt() {
-  if (!window.alt1) {
-    alert("Alt1 not detected.");
+  if (!window.alt1 || !alt1.permissionOverlay || !alt1.permissionCapture) {
+    alert("Alt1 permissions not granted.");
     return;
   }
   hunting = true;
