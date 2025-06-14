@@ -6,5 +6,5 @@
   "launchmode": "attached",
   "icon": "icon.png",
   "main": "index.html",
-  "permissions": ["capture", "overlay"]
+  "permissions": ["capture", "overlay", "pixel", "gamestate"]
 }
