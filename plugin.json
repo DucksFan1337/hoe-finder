@@ -1,10 +1,10 @@
 {
   "appid": "hoefinder",
   "name": "Hoe Finder",
-  "description": "Finds Cream Hat Gang members via OCR and shows compass direction.",
-  "version": "3.0.0",
+  "description": "Tracks Cream Hat Gang members using OCR + minimap.",
+  "version": "1.0.0",
   "launchmode": "attached",
   "icon": "icon.png",
   "main": "index.html",
-  "permissions": ["capture", "overlay", "openurl"]
+  "permissions": ["capture", "overlay"]
 }
