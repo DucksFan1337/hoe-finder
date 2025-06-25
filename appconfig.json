@@ -1,10 +1,8 @@
 {
-  "name": "Hoe Finder",
-  "description": "Finds Cream Hat Gang members via OCR and minimap tracking.",
-  "icon": "icon.png",
-  "url": "./index.html",
-  "plugin": "./plugin.json",
+  "appName": "Hoe Finder",
+  "description": "Screenshots RS chat when usernames are detected",
   "appUrl": "./index.html",
   "configUrl": "./appconfig.json",
-  "permissions": ["capture", "overlay", "pixel", "gamestate"]
+  "iconUrl": "./icon.png",
+  "permissions": "overlay,pixel,gamestate"
 }
